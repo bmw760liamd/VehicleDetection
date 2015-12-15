@@ -1,0 +1,1 @@
+D:\Train\opencv_createsamples_2.4.9.exe -info sample_pos.dat -vec sample_pos.vec -num 1361 -w 24 -h 24

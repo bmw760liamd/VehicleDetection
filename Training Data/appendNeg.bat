@@ -1,0 +1,1 @@
+for /F "delims=" %%j in (negative.txt) do echo.D:\Train\testSampleNeg\%%j >> NegativeNew.txt

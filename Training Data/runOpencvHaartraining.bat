@@ -1,0 +1,1 @@
+D:\Train\opencv_haartraining.exe -data classifier -vec sample_pos.vec -bg testSampleNeg/negative.txt -maxfalsealarm 0.5 -npos 600 -nneg 1400 -w 24 -h 24 -mem 1024
